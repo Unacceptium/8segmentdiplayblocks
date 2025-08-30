@@ -2,194 +2,194 @@
 
 -- Define a simple dirt-like node
 minetest.register_node("8segmentdisplayblocks:1i", {
-    description = "one",
-    tiles = {"1i.png"}, 
+    description = "one and i",
+    tiles = {"8segment1i.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:2z", {
-    description = "two",
-    tiles = {"2z.png"}, 
+    description = "two and z",
+    tiles = {"8segment2z.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:3", {
     description = "three",
-    tiles = {"3.png"}, 
+    tiles = {"8segment3.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:4", {
     description = "four",
-    tiles = {"4.png"}, 
+    tiles = {"8segment4.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:5s", {
-    description = "five",
-    tiles = {"5s.png"}, 
+    description = "five and s",
+    tiles = {"8segment5s.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:6", {
     description = "six",
-    tiles = {"6.png"}, 
+    tiles = {"8segment6.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:7", {
     description = "seven",
-    tiles = {"7.png"}, 
+    tiles = {"8segment7.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:8", {
     description = "eight",
-    tiles = {"8.png"}, 
+    tiles = {"8segment8.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:9", {
-    description = "nein",
-    tiles = {"9.png"}, 
+    description = "nine",
+    tiles = {"8segment9.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:0o", {
-    description = "zero",
-    tiles = {"0o.png"}, 
+    description = "zero and o",
+    tiles = {"8segment0o.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:a", {
-    description = "letter",
-    tiles = {"a.png"}, 
+    description = "a",
+    tiles = {"8segmenta.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:b", {
-    description = "letter",
-    tiles = {"b.png"}, 
+    description = "b",
+    tiles = {"8segmentb.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:c", {
-    description = "letter",
-    tiles = {"c.png"}, 
+    description = "c",
+    tiles = {"8segmentc.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:d", {
-    description = "letter",
-    tiles = {"d.png"}, 
+    description = "d",
+    tiles = {"8segmentd.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:e", {
-    description = "letter",
-    tiles = {"e.png"}, 
+    description = "e",
+    tiles = {"8segmente.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:f", {
-    description = "letter",
-    tiles = {"f.png"}, 
+    description = "f",
+    tiles = {"8segmentf.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:g", {
-    description = "letter",
-    tiles = {"g.png"}, 
+    description = "g",
+    tiles = {"8segmentg.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:h", {
-    description = "letter",
-    tiles = {"h.png"}, 
+    description = "h",
+    tiles = {"8segmenth.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:j", {
-    description = "letter",
-    tiles = {"j.png"}, 
+    description = "j",
+    tiles = {"8segmentj.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:k", {
-    description = "letter",
-    tiles = {"k.png"}, 
+    description = "k",
+    tiles = {"8segmentk.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:l", {
-    description = "letter",
-    tiles = {"l.png"}, 
+    description = "l",
+    tiles = {"8segmentl.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:m", {
-    description = "letter",
-    tiles = {"m.png"}, 
+    description = "m",
+    tiles = {"8segmentm.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:n", {
-    description = "letter",
-    tiles = {"n.png"}, 
+    description = "n",
+    tiles = {"8segmentn.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:p", {
-    description = "letter",
-    tiles = {"p.png"}, 
+    description = "p",
+    tiles = {"8segmentp.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:q", {
-    description = "letter",
-    tiles = {"q.png"}, 
+    description = "q",
+    tiles = {"8segmentq.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:r", {
-    description = "letter",
-    tiles = {"r.png"}, 
+    description = "r",
+    tiles = {"8segmentr.png"}, 
     groups = {crumbly = 3}
 })
 
 
 minetest.register_node("8segmentdisplayblocks:t", {
-    description = "letter",
-    tiles = {"t.png"}, 
+    description = "t",
+    tiles = {"8segmentt.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:u", {
-    description = "letter",
-    tiles = {"u.png"}, 
+    description = "u",
+    tiles = {"8segmentu.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:v", {
-    description = "letter",
-    tiles = {"v.png"}, 
+    description = "v",
+    tiles = {"8segmentv.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:w", {
-    description = "letter",
-    tiles = {"w.png"}, 
+    description = "w",
+    tiles = {"8segmentw.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:x", {
-    description = "letter",
-    tiles = {"x.png"}, 
+    description = "x",
+    tiles = {"8segmentx.png"}, 
     groups = {crumbly = 3}
 })
 
 minetest.register_node("8segmentdisplayblocks:y", {
-    description = "letter",
-    tiles = {"y.png"}, 
+    description = "y",
+    tiles = {"8segmenty.png"}, 
     groups = {crumbly = 3}
 })
